@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "695463721711",
+    "project_id": "chatapp-9db95",
+    "storage_bucket": "chatapp-9db95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695463721711:android:2222dc0a31c1d2b1e9791a",
+        "android_client_info": {
+          "package_name": "com.example.haris_kitchen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695463721711-otvq6cn7cr1mra3trlb6p65l1n039mag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKv7IxiJl-9wGQpgHzV7cZq86_YovX24Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695463721711-otvq6cn7cr1mra3trlb6p65l1n039mag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
